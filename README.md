@@ -1,7 +1,8 @@
 
-# Comical
+
 <img align="left" width="150" height="150" src="/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
+# Comical
 
 A Flutter application that is used to create comic book style jokes and stories.
 
