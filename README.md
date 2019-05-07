@@ -40,9 +40,3 @@ the dialog takes the screen background color, for aesthetic reasons.
 
 ## Sample Image created using this app
 ![Comical Sample](/samples/sample.jpg "Comical")
-
-## TRIED but not in code now
-- Used SVGs and flutter_svg package so vectors characters can be used, but as I noticed issues in rendering on PIXEL 3XL, other pixel devices has no issues,
-had to drop SVGs and use high-res pngs for stickers.
-- Used dashed circle for all the icons on top, due to 5k target had to remove those things.
-- Had used gradients as background using gradient_widgets package, tried to randomize the gradients to add more fun element, but again due to 5k limit had to remove that too.
