@@ -39,4 +39,4 @@ the dialog takes the screen background color, for aesthetic reasons.
 - **TAP** SHARE icon on top to share the COMICAL, with your friends and family.
 
 ## Sample Image created using this app
-![Comical Sample](/samples/sample.jpg "Comical")
+![Comical Sample](/samples/comical-demo.gif "Comical")
