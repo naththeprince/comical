@@ -5,6 +5,10 @@
 A Flutter application that is used to create comic book style jokes and stories.
 
 
+## Demo Reel of the app
+![Comical Sample](/samples/comical-demo.gif "Comical")
+
+
 ## Inspiration
 
 My original idea is to create a mobile application, that can help general users to create a comic book
@@ -38,5 +42,3 @@ the dialog takes the screen background color, for aesthetic reasons.
 - **TAP** REFRESH icon on top to clear the canvas.
 - **TAP** SHARE icon on top to share the COMICAL, with your friends and family.
 
-## Sample Image created using this app
-![Comical Sample](/samples/comical-demo.gif "Comical")
